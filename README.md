@@ -1,7 +1,4 @@
 <div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2phYmp6MmJpejZubWszdTJidDFhbzhnam5lbjZrZWFiZWZvNm14dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
-</div>
-<div align="center">
   <a href="https://www.duckode.com">
     <img src="https://img.shields.io/static/v1?message=duckode.com&logo=duckode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="duckode logo"  />
   </a>
