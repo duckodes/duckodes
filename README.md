@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://www.duckode.com">
-    <img src="https://img.shields.io/static/v1?message=duckode.com&logo=duckode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="duckode logo"  />
+  <a href="https://www.noteest.com">
+    <img src="https://img.shields.io/static/v1?message=noteest.com&logo=duckode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="noteest logo"  />
   </a>
   <a href="https://dev.to/duckode">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
