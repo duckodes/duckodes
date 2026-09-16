@@ -1,12 +1,6 @@
 <div align="center">
   <a href="https://noteest.com/note/?user=duckode&timeline=true&info=true">
-    <img src="https://img.shields.io/static/v1?message=noteest.com&logo=duckode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="noteest logo"  />
-  </a>
-  <a href="https://gs.noteest.com">
-    <img src="https://img.shields.io/static/v1?message=gs.noteest&logo=duckode&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="noteest logo"  />
-  </a>
-  <a href="https://dev.to/duckode">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+    <img src="https://img.shields.io/static/v1?message=noteest.com&logo=duckode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="noteest logo"  /></a><a href="https://dev.to/duckode"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
   </a>
 </div>
 <div align="center">
@@ -16,7 +10,10 @@
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=duckodes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
+<div align="center">
+  <a href="https://gs.noteest.com"><img src="https://img.shields.io/static/v1?message=google%20storage%20web&logo=gs&label=gs&color=0A0A0A&logoColor=white&labelColor=" alt="gs logo"  /></a><a href="https://duckodes.github.io/NeonPunk/"><img src="https://img.shields.io/static/v1?message=neon.punk&logo=NeonPunk&label=&color=0A0A0A&logoColor=white&labelColor=" alt="NeonPunk logo"  />
+  </a>
+</div>
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" height="40" alt="wasm logo"   />
   <img width="12" />
