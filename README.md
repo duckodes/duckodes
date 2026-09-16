@@ -10,10 +10,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=duckodes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-<div align="center">
-  <a href="https://gs.noteest.com"><img src="https://img.shields.io/static/v1?message=google%20storage%20web&logo=gs&label=gs&color=0A0A0A&logoColor=white&labelColor=" alt="gs logo"  /></a><a href="https://duckodes.github.io/NeonPunk/"><img src="https://img.shields.io/static/v1?message=neon.punk&logo=NeonPunk&label=&color=0A0A0A&logoColor=white&labelColor=" alt="NeonPunk logo"  />
-  </a>
-</div>
+
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" height="40" alt="wasm logo"   />
   <img width="12" />
