@@ -4,7 +4,7 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://np.noteest.com"><img src="https://img.shields.io/static/v1?message=np.noteest&logo=np&label=&color=000000&logoColor=white&labelColor=&style=" height="25" alt="noteest logo"  /></a>
+  <a href="https://signal.noteest.com"><img src="https://img.shields.io/static/v1?message=signal&logo=np&label=&color=000000&logoColor=white&labelColor=&style=" height="25" alt="signal logo"  /></a>
 </div>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=duckodes"  />
