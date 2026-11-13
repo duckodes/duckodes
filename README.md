@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://us-central1-source-c3817.cloudfunctions.net/duckodesGithubReadme">
-  <svg xmlns="http://w3.org" viewBox="0 0 128 128" width="128" height="128">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
     <defs>
       <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
         <feGaussianBlur stdDeviation="2.5" result="blur" />
@@ -63,7 +63,6 @@
         50% { transform: scaleX(1.12); opacity: 0.7; }
       }
     </style>
-    <rect width="128" height="128" rx="24" fill="#070a12" />
     <ellipse cx="64" cy="114" rx="34" ry="5" fill="none" stroke="#00f2fe" stroke-width="1.5" stroke-dasharray="6 3" class="shadow-ring" />
     <g class="monster-body">
       <polygon points="36,36 22,14 48,28" fill="#0f172a" stroke="#00f2fe" stroke-width="2.5" stroke-linejoin="round" />
